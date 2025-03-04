@@ -10,7 +10,6 @@ Cada persona podrà votar un màxim de 3 dibuixos, amb 5,3 i 1 punt respectivame
 
 https://github.com/DiegoPRO-bit/Projecte_naus/blob/b329d79324217621cb70e3a0336684cddba430f9/Captura%20de%20pantalla%20de%202025-03-04%2020-14-12.png
 
-
 import pygame, sys
 from pygame.locals import *
 BLUE = 0,166,214
