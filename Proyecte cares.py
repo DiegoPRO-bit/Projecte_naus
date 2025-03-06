@@ -1,14 +1,3 @@
-oncurs de creació de cares gracioses
-image
-
-Aquesta activitat és puntuable.
-
-Normes:
-Heu d'utilitzar les formes que hem vist fins ara: rectangles, cercles, el·lipses, línies i polígons.
-El dibuix ha de semblar una cara o un personatge conegut.
-Cada persona podrà votar un màxim de 3 dibuixos, amb 5,3 i 1 punt respectivament
-
-https://github.com/DiegoPRO-bit/Projecte_naus/blob/b329d79324217621cb70e3a0336684cddba430f9/Captura%20de%20pantalla%20de%202025-03-04%2020-14-12.png
 
 import pygame, sys
 from pygame.locals import *
