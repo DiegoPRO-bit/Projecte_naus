@@ -202,6 +202,10 @@ while True:
         if keys[K_RIGHT]:
             player_rect2.x += velocitat_nau2
 
+        imprimir_pantalla_fons('assets/gameover.png')
+
+        ambient_music = pygame.mixer.Sound('assets/juegomusic.wav')
+        ambient_music.play()
 
 
         # Mantenir al jugador dins de la pantalla:
